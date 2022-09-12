@@ -1,6 +1,7 @@
 # keystone6-Image-gallery
 
-This repo contain code for Adding image gallery in Keystone6, it means using this we can add multiple images at a time on keystone6 record.
+Hey 👋🏼
+This repo might help us to implement gallery on keystone6, where we can upload multiple images at once and from graphQL we will be getting array of images and we can display on frontend.
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XsYUYSnEVZ4/0.jpg)](https://www.youtube.com/watch?v=XsYUYSnEVZ4)
