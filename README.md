@@ -7,6 +7,5 @@ This repo contain code for Adding image gallery in Keystone6, it means using thi
 
 
 
-
-![Demonstration](https://imgur.com/9eUCN6e)
+![Demonstration](https://i.imgur.com/9eUCN6e.gif)
 
